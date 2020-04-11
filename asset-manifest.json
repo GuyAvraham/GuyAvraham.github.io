@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.d959f94c.chunk.js",
-    "main.js.map": "/static/js/main.d959f94c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c85b2129.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c85b2129.js.map",
-    "static/js/2.52a869f5.chunk.js": "/static/js/2.52a869f5.chunk.js",
-    "static/js/2.52a869f5.chunk.js.map": "/static/js/2.52a869f5.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f9a0634a45dffd192f577f5dcaae4658.js": "/precache-manifest.f9a0634a45dffd192f577f5dcaae4658.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.52a869f5.chunk.js.LICENSE.txt": "/static/js/2.52a869f5.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/deep-link-redirect/static/css/main.5f361e03.chunk.css",
+    "main.js": "/deep-link-redirect/static/js/main.9f139ec0.chunk.js",
+    "main.js.map": "/deep-link-redirect/static/js/main.9f139ec0.chunk.js.map",
+    "runtime-main.js": "/deep-link-redirect/static/js/runtime-main.26e44fc8.js",
+    "runtime-main.js.map": "/deep-link-redirect/static/js/runtime-main.26e44fc8.js.map",
+    "static/js/2.52a869f5.chunk.js": "/deep-link-redirect/static/js/2.52a869f5.chunk.js",
+    "static/js/2.52a869f5.chunk.js.map": "/deep-link-redirect/static/js/2.52a869f5.chunk.js.map",
+    "index.html": "/deep-link-redirect/index.html",
+    "precache-manifest.a354b8b0e96817c45766a9a31a74a655.js": "/deep-link-redirect/precache-manifest.a354b8b0e96817c45766a9a31a74a655.js",
+    "service-worker.js": "/deep-link-redirect/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/deep-link-redirect/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.52a869f5.chunk.js.LICENSE.txt": "/deep-link-redirect/static/js/2.52a869f5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/deep-link-redirect/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c85b2129.js",
+    "static/js/runtime-main.26e44fc8.js",
     "static/js/2.52a869f5.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.d959f94c.chunk.js"
+    "static/js/main.9f139ec0.chunk.js"
   ]
 }
